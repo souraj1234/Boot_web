@@ -1,0 +1,42 @@
+   <div class="box timing wow slideInRight">
+                   <table class="table">
+                   	 <tbody>
+                   	 	<tr>
+                   	 		<td class="day">Monday</td>
+                   	 		<td><strong>9:00am</strong></td>
+                   	 		<td>Protine Power(1tablespoon)</td>
+							<td>Room no:0</td>
+                   	 	</tr>
+                   	 	<tr>
+                   	 		<td class="day">Tuesday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 	<tr>
+                   	 		<td class="day">Wednesday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 	<tr>
+                   	 		<td class="day">Thursday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 	<tr>
+                   	 		<td class="day">Friday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 	<tr>
+                   	 		<td class="day">Saturday</td>
+                   	 		<td><strong>9:00 AM</strong></td>
+                   	 		<td>Body Building <br/> 9:00 to 10:00 AM</td>
+                   	 		<td>Room No:210</td>
+                   	 	</tr>
+                   	 </tbody>
+                   </table>
+  	 	  	   </div>
